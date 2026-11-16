@@ -1,0 +1,11 @@
+{
+  "appId": "com.nasasin.app",
+  "appName": "Nasasin",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "launchShowDuration": 2000
+    }
+  }
+}
